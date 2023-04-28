@@ -1,0 +1,6 @@
+.idea/
+cache/
+artifacts/
+node_modules/
+coverage.json
+coverage/
